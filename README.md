@@ -9,13 +9,10 @@ Comece criando sua conta e, em seguida, faça o login para explorar um carrossel
 
 No topo da página, você encontrará uma barra de pesquisa, onde poderá filtrar os produtos por nome ou ingrediente, facilitando a busca por exatamente o que deseja.
 
-## 🖥️ Demonstração Web
+## Demonstração
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/94652702/219904962-707bd105-b134-4528-88a9-b66117e175d8.mp4)
-
-## 📱 Demonstração Mobile
-[![Texto alternativo](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)
-
+[Web 🖥️](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine) 
+[Mobile 📱](https://www.youtube.com/watch?v=BoipEMZ5M_w&feature=youtu.be&ab_channel=TaianeKarine)
 
 ## 🚀 Instalação
 
