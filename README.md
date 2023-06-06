@@ -1,6 +1,7 @@
 
 ![logo](https://github.com/taianekarine/foodexplorer-front/assets/94652702/478ebd60-bf58-45de-b890-2826ef4bbbdb)
 
+# Tech
 <p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
