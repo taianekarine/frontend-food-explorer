@@ -2,11 +2,8 @@
 ![logo](https://github.com/taianekarine/foodexplorer-front/assets/94652702/478ebd60-bf58-45de-b890-2826ef4bbbdb)
 
 <p align="center">
-<img alt="ReactJS" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 </p>
-
 
 # 👩🏼‍💻 Sobre
 
@@ -16,35 +13,35 @@ Comece criando sua conta e, em seguida, faça o login para explorar um carrossel
 
 No topo da página, você encontrará uma barra de pesquisa, onde poderá filtrar os produtos por nome ou ingrediente, facilitando a busca por exatamente o que deseja.
 
-
 ## 🖥️ Demonstração Web
 
-Insira um gif ou um link de alguma demonstração
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=BoipEMZ5M_w&ab_channel=TaianeKarine)
 
 ## 📱 Demonstração Mobile
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)
+
 ## 🚀 Instalação
 
 Clone o repositorio:
 
 Front-end:
 ```bash
-  git clone ...
+  git clone git@github.com:taianekarine/Explorer-Desafio-Final-FrontEnd.git
 ```
 
 Navegue até a pasta:
 ```bash
-  cd ...
+  cd Explorer-Desafio-Final-FrontEnd
 ```
 
 Back-end:
 ```bash
-  git clone ...
+  git clone git@github.com:taianekarine/Explorer-Desafio-Final-BackEnd.git
 ```
 
 Navegue até a pasta:
 ```bash
-  cd ...
+  cd Explorer-Desafio-Final-BackEnd
 ```
 ## Rode o projeto
 Para executar o programa certifique-se que o backend esteja executando, depois, basta rodar o comando:
@@ -61,7 +58,7 @@ Back-end:
 
 ## Funcionalidades 🤖
 
-- Temas dark;
+- Tema dark;
 - Preview em tempo real;
 - Disponivél para mobile e desktop
 - Usuário Admin:
@@ -88,7 +85,7 @@ O maior aprendizado é nunca desistir e entender que tudo acontece num passe de 
 [ Instagram ](https://www.instagram.com/taianekarine/)
 ## Deploy 💻
 
-[ Acesse o site ]()
+[ Acesse o site ](https://tksfoodexplorer.netlify.app/)
 
 
 ## 🤫 shh...
