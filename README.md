@@ -18,7 +18,8 @@ No topo da página, você encontrará uma barra de pesquisa, onde poderá filtra
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=BoipEMZ5M_w&ab_channel=TaianeKarine)
 
 ## 📱 Demonstração Mobile
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)
+[![Texto alternativo](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)](https://www.youtube.com/watch?v=u79TZvfMKWo&ab_channel=TaianeKarine)
+
 
 ## 🚀 Instalação
 
