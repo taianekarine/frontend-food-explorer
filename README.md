@@ -1,6 +1,4 @@
 
-![logo](https://github.com/taianekarine/foodexplorer-front/assets/94652702/478ebd60-bf58-45de-b890-2826ef4bbbdb)
-
 # 👩🏼‍💻 Sobre
 
 Um site especializado em estabelecimentos do ramo alimentício!
